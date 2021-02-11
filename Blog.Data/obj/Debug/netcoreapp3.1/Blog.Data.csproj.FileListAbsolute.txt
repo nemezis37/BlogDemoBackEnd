@@ -1,0 +1,12 @@
+C:\Repos\BlogDemo\Blog.Data\bin\Debug\netcoreapp3.1\Blog.Data.deps.json
+C:\Repos\BlogDemo\Blog.Data\bin\Debug\netcoreapp3.1\Blog.Data.dll
+C:\Repos\BlogDemo\Blog.Data\bin\Debug\netcoreapp3.1\Blog.Data.pdb
+C:\Repos\BlogDemo\Blog.Data\bin\Debug\netcoreapp3.1\Blog.Model.dll
+C:\Repos\BlogDemo\Blog.Data\bin\Debug\netcoreapp3.1\Blog.Model.pdb
+C:\Repos\BlogDemo\Blog.Data\obj\Debug\netcoreapp3.1\Blog.Data.csprojAssemblyReference.cache
+C:\Repos\BlogDemo\Blog.Data\obj\Debug\netcoreapp3.1\Blog.Data.AssemblyInfoInputs.cache
+C:\Repos\BlogDemo\Blog.Data\obj\Debug\netcoreapp3.1\Blog.Data.AssemblyInfo.cs
+C:\Repos\BlogDemo\Blog.Data\obj\Debug\netcoreapp3.1\Blog.Data.csproj.CoreCompileInputs.cache
+C:\Repos\BlogDemo\Blog.Data\obj\Debug\netcoreapp3.1\Blog.Data.csproj.CopyComplete
+C:\Repos\BlogDemo\Blog.Data\obj\Debug\netcoreapp3.1\Blog.Data.dll
+C:\Repos\BlogDemo\Blog.Data\obj\Debug\netcoreapp3.1\Blog.Data.pdb
