@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\Nemezis\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Nemezis\\.nuget\\packages"
-    ]
-  }
-}
